@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="백준">
+      <UniqueIdentifier>{fb109484-db04-4c12-b45d-42e875454b21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="백준\자료구조">
+      <UniqueIdentifier>{a1d949d3-589a-4a47-8dd0-0919ee4fe030}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="레벨테스트">
+      <UniqueIdentifier>{eb117edd-3dcc-42f3-aedd-34b8b605bb0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="프로그래머스">
+      <UniqueIdentifier>{a8fd6660-59bb-47b6-b9af-844ff0d822f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LV_1_내적.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_1_없는 숫자 더하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_1_두 정수 사이의 합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_1_폰켓몬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LV_1_성격 유형검사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호%28자료구조%29_my.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호%28자료구조%29_정답.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2%28자료구조%29_my.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="스택%28자료구조%29.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="제로%28stack%29.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="스택수열.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="균형잡힌 세상%28스택%29.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="절대값_힙%28우선순위_큐%29.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="베스트셀러.cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="레벨테스트(사전)_B.cpp">
+      <Filter>레벨테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_Day1.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
