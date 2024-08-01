@@ -25,6 +25,12 @@
     <Filter Include="프로그래머스">
       <UniqueIdentifier>{a8fd6660-59bb-47b6-b9af-844ff0d822f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="프로그래머스\LV1.">
+      <UniqueIdentifier>{844e2ae8-b56e-42cf-a7e0-fe1e4cd35cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="프로그래머스\LV1.\240726">
+      <UniqueIdentifier>{f1dce9ab-991c-4865-86f8-42ffb1b9faf4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LV_1_내적.cpp">
@@ -73,6 +79,51 @@
       <Filter>레벨테스트</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스_Day1.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="주사위3.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 여러 번 뒤집기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="접미사 배열.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="접미사인지 확인하기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="특정 문자 제거하기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="진료 순서 정하기 240720.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="모스부호(1).cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬을 나누는 경우의 수 nCm.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="접두사인지 확인하기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 뒤집기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 내 p와 y의 개수.cpp">
+      <Filter>프로그래머스\LV1.\240726</Filter>
+    </ClCompile>
+    <ClCompile Include="설탕배달(그리디).cpp">
+      <Filter>백준\자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="할 일 목록.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="n보다 커질 때까지 더하기.cpp">
+      <Filter>프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="수열과 구간 쿼리 1.cpp">
       <Filter>프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
